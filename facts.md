@@ -58,7 +58,7 @@ checked 2026-11-11.
 Source: [WHO: Violence against women fact sheet](https://www.who.int/news-room/fact-sheets/detail/violence-against-women),
 checked 2026-11-11. WHO describes intimate partner violence as behaviour by a partner or
 ex-partner that causes physical, sexual or psychological harm, including physical aggression,
-sexual coercion, psychological abuse and controlling behaviours. Anyone can experience it.
+sexual coercion, psychological abuse and controlling behaviours.
 
 Source: [love is respect: What are my boundaries?](https://www.loveisrespect.org/resources/what-are-my-boundaries/)
 (National Domestic Violence Hotline), checked 2026-11-11. Warning signs include someone who reacts

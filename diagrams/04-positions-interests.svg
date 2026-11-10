@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Positions and interests</title>
+  <desc id="d">Above the waterline are the positions, which clash: "I want the lounge quiet after 9" and "I want friends over at weekends". Below the waterline are the interests: sleep before early shifts, and a social life. Options can meet both: guests on Fridays and Saturdays, music off by 11, earplugs, and the shift list on the fridge.</desc>
+  <rect width="720" height="400" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Positions and interests</text>
+
+  <rect x="40" y="130" width="640" height="150" fill="#eaf2fc"/>
+  <line x1="40" y1="130" x2="680" y2="130" stroke="#2a78d6" stroke-width="2"/>
+
+  <text x="40" y="72" font-size="13" font-weight="600" fill="#52514e">POSITIONS: what each person demands (they clash)</text>
+  <rect x="60" y="84" width="270" height="38" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="195" y="108" font-size="14" fill="#0b0b0b" text-anchor="middle">Ana: "Quiet after 9."</text>
+  <rect x="390" y="84" width="270" height="38" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="525" y="108" font-size="14" fill="#0b0b0b" text-anchor="middle">Tom: "Friends over at weekends."</text>
+
+  <text x="60" y="160" font-size="13" font-weight="600" fill="#2a78d6">INTERESTS: why they want it (ask "What matters to you about that?")</text>
+  <rect x="60" y="176" width="270" height="56" rx="8" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+  <text x="195" y="200" font-size="14" fill="#0b0b0b" text-anchor="middle">Sleep before</text>
+  <text x="195" y="220" font-size="14" fill="#0b0b0b" text-anchor="middle">early shifts</text>
+  <rect x="390" y="176" width="270" height="56" rx="8" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+  <text x="525" y="200" font-size="14" fill="#0b0b0b" text-anchor="middle">A social life</text>
+  <text x="525" y="220" font-size="14" fill="#0b0b0b" text-anchor="middle">at home</text>
+  <text x="360" y="210" font-size="14" fill="#52514e" text-anchor="middle">+</text>
+
+  <rect x="40" y="296" width="640" height="76" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="60" y="320" font-size="15" font-weight="600" fill="#0b0b0b">Options that meet both</text>
+  <text x="60" y="342" font-size="14" fill="#0b0b0b">Guests on Fridays and Saturdays · music off by 11 · earplugs</text>
+  <text x="60" y="362" font-size="14" fill="#0b0b0b">· Ana's shift list on the fridge · review in a month</text>
+  <text x="40" y="392" font-size="12" fill="#52514e">Source: Harvard Program on Negotiation, principled negotiation. See facts.md.</text>
+</svg>

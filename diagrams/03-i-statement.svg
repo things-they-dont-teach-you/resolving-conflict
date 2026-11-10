@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">An I-statement in four parts</title>
+  <desc id="d">Instead of "You're so inconsiderate", say it in four parts. I feel: stressed. When: the music is loud after 11. Because: I start work at 6. Could we: agree on 10:30?</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="360" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">An I-statement in four parts</text>
+
+  <rect x="40" y="66" width="640" height="44" rx="8" fill="#fbeaea" stroke="#d03b3b" stroke-width="2"/>
+  <text x="60" y="94" font-size="15" fill="#0b0b0b">✕  Instead of: "You're so inconsiderate."</text>
+
+  <rect x="40" y="132" width="145" height="140" rx="8" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+  <text x="112" y="162" font-size="16" font-weight="700" fill="#2a78d6" text-anchor="middle">I feel...</text>
+  <text x="112" y="196" font-size="14" fill="#0b0b0b" text-anchor="middle">stressed</text>
+  <text x="112" y="248" font-size="12" fill="#52514e" text-anchor="middle">a feeling,</text>
+  <text x="112" y="264" font-size="12" fill="#52514e" text-anchor="middle">not an opinion</text>
+
+  <rect x="205" y="132" width="145" height="140" rx="8" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+  <text x="277" y="162" font-size="16" font-weight="700" fill="#2a78d6" text-anchor="middle">when...</text>
+  <text x="277" y="196" font-size="14" fill="#0b0b0b" text-anchor="middle">the music's loud</text>
+  <text x="277" y="214" font-size="14" fill="#0b0b0b" text-anchor="middle">after 11</text>
+  <text x="277" y="248" font-size="12" fill="#52514e" text-anchor="middle">what happened,</text>
+  <text x="277" y="264" font-size="12" fill="#52514e" text-anchor="middle">not who they are</text>
+
+  <rect x="370" y="132" width="145" height="140" rx="8" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+  <text x="442" y="162" font-size="16" font-weight="700" fill="#2a78d6" text-anchor="middle">because...</text>
+  <text x="442" y="196" font-size="14" fill="#0b0b0b" text-anchor="middle">I start work</text>
+  <text x="442" y="214" font-size="14" fill="#0b0b0b" text-anchor="middle">at 6</text>
+  <text x="442" y="248" font-size="12" fill="#52514e" text-anchor="middle">why it</text>
+  <text x="442" y="264" font-size="12" fill="#52514e" text-anchor="middle">matters to you</text>
+
+  <rect x="535" y="132" width="145" height="140" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="607" y="162" font-size="16" font-weight="700" fill="#0b0b0b" text-anchor="middle">Could we...?</text>
+  <text x="607" y="196" font-size="14" fill="#0b0b0b" text-anchor="middle">agree on 10:30</text>
+  <text x="607" y="248" font-size="12" fill="#52514e" text-anchor="middle">a specific,</text>
+  <text x="607" y="264" font-size="12" fill="#52514e" text-anchor="middle">doable request</text>
+
+  <line x1="185" y1="202" x2="203" y2="202" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="350" y1="202" x2="368" y2="202" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="515" y1="202" x2="533" y2="202" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <text x="40" y="308" font-size="14" fill="#0b0b0b">"I feel stressed when the music's loud after 11, because I start work at 6.</text>
+  <text x="40" y="328" font-size="14" fill="#0b0b0b">Could we agree on 10:30?"</text>
+  <text x="40" y="352" font-size="12" fill="#52514e">Source: University of Iowa, Conflict Management. See facts.md.</text>
+</svg>

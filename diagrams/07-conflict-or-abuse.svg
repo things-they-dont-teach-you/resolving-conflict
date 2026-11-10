@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Is this a conflict, or abuse?</title>
+  <desc id="d">Are you afraid of them? Do they hurt or threaten you, control your money, phone, friends or movements, or punish you for saying no? If yes to any, it is not a conflict to fix with better communication: get help from the help lines in facts.md, and if you are in danger now, call the emergency number. If no, it is a disagreement between equals, and the skills in this course can help.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="420" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Is this a conflict, or abuse?</text>
+
+  <rect x="40" y="70" width="340" height="190" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="60" y="100" font-size="15" font-weight="600" fill="#0b0b0b">Is any of this true?</text>
+  <text x="60" y="130" font-size="14" fill="#0b0b0b">• You feel afraid of them.</text>
+  <text x="60" y="156" font-size="14" fill="#0b0b0b">• They hurt or threaten you.</text>
+  <text x="60" y="182" font-size="14" fill="#0b0b0b">• They control your money, phone,</text>
+  <text x="74" y="202" font-size="14" fill="#0b0b0b">friends or where you go.</text>
+  <text x="60" y="228" font-size="14" fill="#0b0b0b">• They punish you for saying no.</text>
+
+  <line x1="380" y1="165" x2="434" y2="165" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="407" y="157" font-size="13" fill="#52514e" text-anchor="middle">Yes</text>
+
+  <rect x="440" y="70" width="240" height="190" rx="8" fill="#fbeaea" stroke="#d03b3b" stroke-width="2"/>
+  <text x="560" y="104" font-size="17" font-weight="700" fill="#0b0b0b" text-anchor="middle">Not a conflict</text>
+  <text x="560" y="134" font-size="14" fill="#0b0b0b" text-anchor="middle">Better communication</text>
+  <text x="560" y="154" font-size="14" fill="#0b0b0b" text-anchor="middle">won't fix this, and it's</text>
+  <text x="560" y="174" font-size="14" fill="#0b0b0b" text-anchor="middle">not your fault. Get help:</text>
+  <text x="560" y="200" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">help lines in facts.md</text>
+  <text x="560" y="228" font-size="13" fill="#0b0b0b" text-anchor="middle">In danger now? Call the</text>
+  <text x="560" y="246" font-size="13" fill="#0b0b0b" text-anchor="middle">emergency number.</text>
+
+  <line x1="210" y1="260" x2="210" y2="306" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="220" y="288" font-size="13" fill="#52514e">No</text>
+
+  <rect x="40" y="312" width="640" height="70" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="60" y="340" font-size="15" font-weight="600" fill="#0b0b0b">A disagreement between equals</text>
+  <text x="60" y="362" font-size="14" fill="#0b0b0b">Listening, I-statements, negotiation and boundaries can help.</text>
+  <text x="40" y="408" font-size="12" fill="#52514e">Sources: WHO; love is respect. Not professional advice; see facts.md.</text>
+</svg>

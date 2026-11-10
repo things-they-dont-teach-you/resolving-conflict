@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">How an argument escalates</title>
+  <desc id="d">A specific complaint turns into criticism of the person, which brings defensiveness, then contempt, then stonewalling. Each step invites the next. The way out at any step: if you feel flooded, say you need a break, calm down for at least 20 minutes, then come back to the one specific issue.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="400" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">How an argument escalates</text>
+
+  <rect x="40" y="290" width="150" height="56" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="115" y="314" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Complaint</text>
+  <text x="115" y="334" font-size="12" fill="#0b0b0b" text-anchor="middle">about one thing</text>
+
+  <rect x="170" y="230" width="150" height="56" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="245" y="254" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Criticism</text>
+  <text x="245" y="274" font-size="12" fill="#0b0b0b" text-anchor="middle">attacks the person</text>
+
+  <rect x="300" y="170" width="150" height="56" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="375" y="194" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Defensiveness</text>
+  <text x="375" y="214" font-size="12" fill="#0b0b0b" text-anchor="middle">excuses, blaming back</text>
+
+  <rect x="430" y="110" width="150" height="56" rx="8" fill="#fbeaea" stroke="#d03b3b" stroke-width="2"/>
+  <text x="505" y="134" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Contempt</text>
+  <text x="505" y="154" font-size="12" fill="#0b0b0b" text-anchor="middle">mocking, eye-rolling</text>
+
+  <rect x="540" y="60" width="150" height="46" rx="8" fill="#fbeaea" stroke="#d03b3b" stroke-width="2"/>
+  <text x="615" y="81" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Stonewalling</text>
+  <text x="615" y="98" font-size="12" fill="#0b0b0b" text-anchor="middle">shutting down</text>
+
+  <line x1="190" y1="300" x2="212" y2="290" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="320" y1="240" x2="342" y2="230" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="450" y1="180" x2="472" y2="170" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="580" y1="118" x2="598" y2="110" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="400" y="250" width="290" height="96" rx="8" fill="#eaf2fc" stroke="#2a78d6" stroke-width="2"/>
+  <text x="420" y="276" font-size="15" font-weight="600" fill="#0b0b0b">The way out, at any step</text>
+  <text x="420" y="298" font-size="13" fill="#0b0b0b">Feeling flooded? Say you need a break.</text>
+  <text x="420" y="318" font-size="13" fill="#0b0b0b">Calm down for at least 20 minutes, then</text>
+  <text x="420" y="338" font-size="13" fill="#0b0b0b">come back to the one specific issue.</text>
+  <text x="40" y="384" font-size="12" fill="#52514e">Source: The Gottman Institute, the four horsemen. See facts.md.</text>
+</svg>
